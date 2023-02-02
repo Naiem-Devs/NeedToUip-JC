@@ -1,0 +1,414 @@
+/* XL Device :1200px. */
+
+@media (min-width: 1200px) and (max-width: 1640px) {
+    .top_minus_115 {
+        margin-top: -80px;
+    }
+
+    .chart__second_thumb {
+        margin-top: -20px;
+    }
+
+    .chart__single__options {
+        margin-right: 30px;
+        margin-bottom: 10px;
+    }
+}
+
+
+/* LG Device :992px. */
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    .header__inner__blk {
+        justify-content: center;
+    }
+
+    .sidebar__title a {
+        padding: 15px 35px;
+        border-right: 3px solid transparent;
+    }
+
+    .main__area {
+        padding-left: 110px;
+    }
+
+    .top_minus_115 {
+        margin-top: -70px;
+    }
+
+    .chart__second_thumb {
+        margin-top: 0px;
+    }
+
+    .single__chart__content h6 {
+        font-size: 12px;
+        padding-left: 24px;
+    }
+
+    .chart__top__column {
+        max-width: 225px;
+        gap: 13px;
+    }
+
+    .chart__single__options {
+        margin-right: 18px;
+        margin-bottom: 10px;
+    }
+
+
+
+
+
+
+
+
+
+
+}
+
+
+/* MD Device :768px. */
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .header__inner__blk {
+        justify-content: center;
+    }
+
+    .sidebar__title a {
+        padding: 15px 35px;
+        border-right: 3px solid transparent;
+    }
+
+    .main__area {
+        padding-left: 110px;
+    }
+
+    .top_minus_115 {
+        margin-top: -80px;
+    }
+
+    .chart__second_thumb {
+        margin-top: -40px;
+    }
+
+    .single__chart__content h6 {
+        font-size: 12px;
+        padding-left: 24px;
+    }
+
+    .chart__top__column {
+        max-width: 225px;
+        gap: 13px;
+    }
+
+    .filters__area {
+        padding-left: 0;
+        border: 0;
+    }
+
+    .login__inner__blk {
+        padding: 20px;
+    }
+
+    .login__thumb {
+        max-width: 298px;
+        margin: 0 auto;
+        margin-bottom: 40px;
+        padding-left: 0;
+    }
+
+    .login__area {
+        padding: 40px 0;
+    }
+
+    .progress-bar {
+        max-width: 575px;
+        height: 40px;
+    }
+
+    .pagination__area {
+        padding-top: 35px;
+        padding-bottom: 40px;
+    }
+
+    .upload__wrapper {
+        padding: 45px 15px;
+    }
+
+    .summery_left_blk {
+        padding-right: 0;
+        border-right: 0;
+        padding-bottom: 30px;
+    }
+
+    .popup__top__right__blk form {
+        width: 100%;
+    }
+
+    .search__area {
+        width: 100%;
+    }
+
+    .search__area input {
+        width: 100%;
+    }
+
+    .popup__top__right__blk {
+        width: 100%;
+    }
+
+    .chart__second_thumb {
+        margin-top: 0;
+    }
+
+    .chart__single__options {
+        margin-right: 16px;
+        margin-bottom: 10px;
+    }
+
+    .chart__topbar__options {
+        margin-right: 16px;
+    }
+
+
+}
+
+
+/* SM Small Device :320px. */
+
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+    .header__inner__blk {
+        justify-content: center;
+        margin-top: 12px;
+    }
+
+    .sidebar__title a {
+        padding: 15px 35px;
+        border-right: 3px solid transparent;
+    }
+
+    .main__area {
+        padding-left: 0;
+    }
+
+    .top_minus_115 {
+        margin-top: -80px;
+    }
+
+    .chart__second_thumb {
+        margin-top: 25px;
+    }
+
+    .single__chart__content h6 {
+        font-size: 12px;
+        padding-left: 24px;
+    }
+
+    .chart__top__column {
+        max-width: 225px;
+        gap: 13px;
+    }
+
+    .filters__area {
+        padding-left: 0;
+        border: 0;
+    }
+
+    .login__inner__blk {
+        padding: 20px;
+    }
+
+    .login__thumb {
+        max-width: 330px;
+        padding-left: 40px;
+        margin: 0 auto;
+        margin-bottom: 40px;
+        padding-left: 0;
+    }
+
+    .login__area {
+        padding: 40px 0;
+    }
+
+    .progress-bar {
+        max-width: 575px;
+        height: 40px;
+    }
+
+    .pagination__area {
+        padding-top: 35px;
+        padding-bottom: 40px;
+    }
+
+    .upload__wrapper {
+        padding: 45px 15px;
+    }
+
+    .summery_left_blk {
+        padding-right: 0;
+        border-right: 0;
+        padding-bottom: 30px;
+    }
+
+    .sidebar__title a img {
+        height: 23px;
+    }
+
+    .sidebar__title {
+        gap: 10px;
+    }
+
+    .video__area {
+        margin-top: -60px;
+    }
+
+    .chart__area {
+        margin-top: 0;
+    }
+
+    .man__thumb {
+        height: 100%;
+        left: 0;
+        display: flex;
+        align-items: flex-end;
+        width: 100%;
+    }
+
+    .man__thumb img {
+        width: 100%;
+    }
+
+    .popup__top__right__blk form {
+        width: 303px;
+    }
+
+    .search__area {
+        width: 100%;
+    }
+
+    .search__area input {
+        width: 100%;
+    }
+
+    .popup__top__right__blk {
+        width: 100%;
+        flex-wrap: wrap;
+        gap: 20px;
+        justify-content: center;
+    }
+
+    .popup__top__blk {
+        justify-content: center;
+    }
+
+    .single__filter__select {
+        margin: 0 !important;
+    }
+
+    .header__title h4 {
+        font-size: 18px;
+        line-height: 28px;
+        text-align: center;
+    }
+
+    .download__file a {
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .sidebar__area {
+        left: -100%;
+        transition: .3s all;
+        z-index: 999;
+    }
+
+    .sidebar__area.active {
+        left: 0;
+    }
+
+    .pagination li a {
+        height: 35px;
+        width: 35px;
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .open__menu {
+        position: absolute;
+        left: 10px;
+        top: 10px;
+        color: #1680D3;
+        font-size: 18px;
+        cursor: pointer;
+    }
+
+    .overlay {
+        position: fixed;
+        left: -100%;
+        top: 0;
+        right: 0;
+        height: 100%;
+        width: 100%;
+        background: #00000070;
+        z-index: 88;
+        transition: .5s all;
+    }
+
+    .overlay.active {
+        left: 0;
+    }
+
+    .close_menu {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        color: #fff;
+        cursor: pointer;
+    }
+
+    .header__right__blk {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .table {
+        width: 500px;
+    }
+
+    .information__table {
+        overflow-x: scroll;
+    }
+
+    .chart__link ul {
+        display: flex;
+        gap: 20px;
+        flex-wrap: wrap;
+    }
+
+    .chart-wrap {
+        display: block;
+    }
+
+    .chart__topbar__options {
+        margin-right: 0;
+        margin-bottom: 25px;
+    }
+
+    .chart__single__options {
+        margin-right: 20px;
+        margin-bottom: 7px;
+    }
+
+
+
+
+
+
+
+}
+
+
+/* SM Small Device :550px. */
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {}
